@@ -1,7 +1,7 @@
 # Bootcamp Data Analytics 2021 - WoMakersCode
 
-Repositório criado com o intuito de armazenar de modo centralizado todos os exercícios, atividades, projetos e desafios que serão desenvolvidos ao longo do bootcamp.
+Repository created with the intention of centrally storing all exercises, activities, projects, and challenges that will be developed during the bootcamp.
 <br>
 
-[Ementa do bootcamp](https://github.com/NaraGuimma/bootcamp_WoMakersCode/blob/main/calendario-bootcamp-data-analytics.pdf)
+[Repository created with the intention of centrally storing all exercises, activities, projects, and challenges that will be developed during the bootcamp.](https://github.com/NaraGuimma/bootcamp_WoMakersCode/blob/main/DA2022%20-%20Calend%C3%A1rio%20com%20Escala.pdf)
 
